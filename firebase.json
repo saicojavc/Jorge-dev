@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "C:/Users/arian/JavcPortfolio",
     "ignore": [
       "firebase.json",
       "**/.*",
